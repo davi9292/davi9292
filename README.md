@@ -39,7 +39,7 @@ Me chamo , tenho 16 anos e sou natural de São José dos Campos. Estou no o ensi
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi9292&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
