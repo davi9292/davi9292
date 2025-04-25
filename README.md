@@ -1,8 +1,8 @@
 # 🧑‍💻 Davi de Assis 
 **`Desenvolvedor de Sistemas`**
-Me chamo , tenho 16 anos e sou natural de São José dos Campos. Estou no o ensino médio no SESI, com o curso técnico em Desenvolvimento de Sistemas. 
+Me chamo Davi , tenho 16 anos e sou natural de São José dos Campos. Estou no o ensino médio no SESI, com o curso técnico em Desenvolvimento de Sistemas. 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xz.assis/)
 
 ### 🤖 Linguagens e Tecnologias
 
